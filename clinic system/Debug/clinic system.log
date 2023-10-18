@@ -1,0 +1,3 @@
+﻿  linked_list.c
+F:\drive\work projects\lets do it\nti taks\c\clinic system\clinic system\linked_list.c(66,14): warning C4098: 'edit_node': 'void' function returning a value
+  clinic system.vcxproj -> F:\drive\work projects\lets do it\nti taks\c\clinic system\Debug\clinic system.exe

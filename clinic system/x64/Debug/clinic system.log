@@ -1,0 +1,20 @@
+﻿  functions.c
+F:\drive\work projects\lets do it\nti taks\c\clinic system\clinic system\functions.c(52,35): warning C4090: 'function': different 'volatile' qualifiers
+F:\drive\work projects\lets do it\nti taks\c\clinic system\clinic system\functions.c(65,22): warning C4090: 'function': different 'volatile' qualifiers
+F:\drive\work projects\lets do it\nti taks\c\clinic system\clinic system\functions.c(79,26): warning C4090: 'function': different 'volatile' qualifiers
+F:\drive\work projects\lets do it\nti taks\c\clinic system\clinic system\functions.c(79,39): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+F:\drive\work projects\lets do it\nti taks\c\clinic system\clinic system\functions.c(79,28): warning C4024: 'edit_node': different types for formal and actual parameter 2
+F:\drive\work projects\lets do it\nti taks\c\clinic system\clinic system\functions.c(79,65): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+F:\drive\work projects\lets do it\nti taks\c\clinic system\clinic system\functions.c(79,54): warning C4024: 'edit_node': different types for formal and actual parameter 4
+F:\drive\work projects\lets do it\nti taks\c\clinic system\clinic system\functions.c(87,24): warning C4090: 'function': different 'volatile' qualifiers
+  linked_list.c
+F:\drive\work projects\lets do it\nti taks\c\clinic system\clinic system\linked_list.c(49,5): warning C4033: 'edit_node' must return a value
+F:\drive\work projects\lets do it\nti taks\c\clinic system\clinic system\linked_list.c(54,5): warning C4033: 'edit_node' must return a value
+  main.c
+F:\drive\work projects\lets do it\nti taks\c\clinic system\clinic system\main.c(27,43): warning C4020: 'select_option': too many actual parameters
+F:\drive\work projects\lets do it\nti taks\c\clinic system\clinic system\main.c(13,7): warning C4101: 'select_option_return': unreferenced local variable
+  Generating Code...
+F:\drive\work projects\lets do it\nti taks\c\clinic system\clinic system\linked_list.c(67): warning C4715: 'edit_node': not all control paths return a value
+F:\drive\work projects\lets do it\nti taks\c\clinic system\clinic system\functions.c(30): warning C4715: 'input_pass': not all control paths return a value
+F:\drive\work projects\lets do it\nti taks\c\clinic system\clinic system\functions.c(95): warning C4716: 'select_option': must return a value
+  clinic system.vcxproj -> F:\drive\work projects\lets do it\nti taks\c\clinic system\x64\Debug\clinic system.exe
